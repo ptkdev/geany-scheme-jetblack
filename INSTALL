@@ -1,0 +1,8 @@
+/**** INSTALL ****/
+1) Download Geany-Dark-Scheme Next
+2) Extract file .zip (or get all file from «src» folder) and copy it to ~/.config/geany/filedefs and replace all files
+
+
+/**** UNINSTALL ****/
+1) Delete ~/.config/geany/filedefs
+2) Reboot geany

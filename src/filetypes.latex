@@ -1,0 +1,24 @@
+# Geany-Dark-Scheme Next
+#    Copyright (C) 2011  PTKDev <ptkdev@gmail.com> - http://www.ptkdev.it/
+#    This Project is Fork Of Geany-Dark-Scheme (http://code.google.com/p/geany-dark-scheme/)
+#
+#    This program is free software: you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation, either version 3 of the License, or
+#    (at your option) any later version.
+#
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+#
+[styling]
+# foreground;background;bold;italic
+default=0xffffff;0x0f0f0f;false;false
+command=0xFFCB4F;0x0f0f0f;true;false
+tag=0x007f7f;0x0f0f0f;true;false
+math=0x800060;0x0f0f0f;false;false
+comment=0x747474;0x0f0f0f;false;false

@@ -1,0 +1,34 @@
+Patryk Rzucidlo (@PTKDev) <ptkdev@gmail.com>
+    Lead Developer
+    
+Duncan <duncan.lock@gmail.com>
+	Original Source - http://code.google.com/p/geany-dark-scheme/ 
+	
+    
+=================== ORIGINAL CREDITS ===================
+.c - C languages files (contributed by Paulo Cabido)
+.cs - C# language files (contributed by Duncan Lock)
+.cpp - C++ (contributed by gtk.monkey)
+.conf - Apache (and Geany) style .conf files (contributed by Duncan Lock)
+.css - Cascading Stylesheet files (contributed by Roman Snitko)
+.d - d language files (contributed by gtk.monkey)
+.docbook - Docbook mark-up files (contributed by gmunkhbaatarmn)
+.haskel - Haskel code (contributed by Dave.Sarman)
+.html - Hypertext Markup Language file - web pages (contributed by Roman Snitko, Javascript support added by Daniel Mlodecki)
+.java - Java language files (contributed by Paulo Cabido)
+.javascript - Javascript scripts (Duncan Lock, partially based on GeanyDarkTango)
+.latex - Latex files (contributed by Enrico Tröger)
+.lua - Lua script files (contributed by curtstrangward)
+.markdown - Markdown text files (contributed by pho3nixf1re84)
+.NSIS - Nullsoft Scriptable Installer System scripts (contributed by mr.soup12, modified by Duncan Lock)
+.pascal - Pascal code (contributed by gtk.monkey)
+.perl - Perl language files (contributed by Roman Snitko)
+.php (contributed by Roman Snitko, improved by s5n43K3s)
+.py - Python language files (contributed by Nicolas Hainaux)
+.r - R stats language (contributed by weibullguy)
+.rb - Ruby language files (contributed by Roman Snitko)
+.sh - Bash shell scripts (contributed by Duncan Lock)
+.sql - SQL database query files (contributed by Duncan Lock)
+.yaml - YAML files (contributed by pho3nixf1re84)
+.vala - Vala language files (contributed by boromil)
+.xml - Extensible Markup Language files (contributed by Roman Snitko)    
