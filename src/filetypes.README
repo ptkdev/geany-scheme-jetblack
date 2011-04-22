@@ -1,4 +1,4 @@
-# Geany-Dark-Scheme Next
+# Geany-Black-Scheme
 #    Copyright (C) 2011  PTKDev <ptkdev@gmail.com> - http://www.ptkdev.it/
 #    This Project is Fork Of Geany-Dark-Scheme (http://code.google.com/p/geany-dark-scheme/)
 #
@@ -16,5 +16,5 @@
 #    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
 
-Copy Geany-Dark-Scheme Next to ~/.config/geany/filedefs to overwrite them. To use the defaults, just delete the file in this directory.
+Copy Geany-Black-Scheme to ~/.config/geany/filedefs to overwrite them. To use the defaults, just delete the file in this directory.
 For more information read the documentation (in /usr/share/doc/geany/html/index.html or visit http://geany.uvena.de/).
