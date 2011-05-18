@@ -15,7 +15,15 @@
 #    You should have received a copy of the GNU General Public License
 #    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
+#
+#	 Author: Patryk Rzucidlo (PTKDev)
+#	 Twitter: @ptkdev
+#	 WebSite: http://www.ptkdev.it/
+#	 IRC: chat.freenode.net at #ptkdev
+#
 # For complete documentation of this file, please see Geany's main documentation
+
+
 [styling]
 # foreground;background;bold;italic - used for filetype All/None
 default=0xffffff;0x0f0f0f;false;false
