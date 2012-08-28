@@ -23,6 +23,9 @@
 #
 # For complete documentation of this file, please see Geany's main documentation
 
+[named_styles]
+# foreground;background;bold;italic - used for filetype All/None
+default=0xffffff;0x0f0f0f;false;false
 
 [styling]
 # foreground;background;bold;italic - used for filetype All/None

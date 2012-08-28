@@ -1,3 +1,8 @@
+=================== 0.2 ===================
+* Fix filetypes: php
+* Fix filetypes: html
+* All unknown filetypes have #0f0f0f background
+
 =================== 0.1b ===================
 * Change Name To: Geany-Black-Scheme
 

@@ -23,7 +23,6 @@
 #
 # For complete documentation of this file, please see Geany's main documentation
 
-
 [styling]
 # foreground;background;bold;italic
 html_default=0xffffff;0x0f0f0f;false;false
