@@ -40,7 +40,7 @@ operator=0x98BAC5;0x0f0f0f;true;false
 identifier=0xffffff;0x0f0f0f;false;false
 commentblock=0x747474;0x0f0f0f;false;false
 stringeol=0x000000;0xe0c0e0;false;false
-word2=0x800060;0xe0c0e0;true;false
+word2=0x800060;0x0f0f0f;true;false
 decorator=0x808000;0x0f0f0f;false;false
 
 [keywords]
